@@ -4,4 +4,4 @@ some source code package to record my development process
 
 
 
-Deceloping!!!!!!!!!!!!!!!!!
+Developing!!!!!!!!!!!!!!!!!
